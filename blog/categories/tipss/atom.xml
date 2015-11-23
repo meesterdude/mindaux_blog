@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tipss | The MindAUX blog]]></title>
+  <link href="http://blog.mindaux.com/blog/categories/tipss/atom.xml" rel="self"/>
+  <link href="http://blog.mindaux.com/"/>
+  <updated>2015-11-23T04:15:55-05:00</updated>
+  <id>http://blog.mindaux.com/</id>
+  <author>
+    <name><![CDATA[MindAUX]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing MindAUX]]></title>
+    <link href="http://blog.mindaux.com/blog/2015/11/23/whats-coming/"/>
+    <updated>2015-11-23T01:29:01-05:00</updated>
+    <id>http://blog.mindaux.com/blog/2015/11/23/whats-coming</id>
+    <content type="html"><![CDATA[<p>MindAUX is made for individuals and teams that need to juggle a lot of information. Things with due dates, things that need to be done regularly, or things that just need to be remembered and easily found later. MindAUX is designed to be easy to use, but powerful when you need it to be.</p>
+
+<h2>What can it do?</h2>
+
+<p>MindAUX seperates itself from other software by being an open platform that allows for creativity in entering, finding and utilizing information. You can use it for everything from a place to keep cooking recepies to a powerful project manager.</p>
+
+<p>In MindAUX you create &lsquo;cards&rsquo; that can contain text, markdown or HTML. You can optionally add tags and your own metadata to these cards as well, to further track details. All of this is then easy to find via a powerful search engine that performs fulltext search and also lets you search for metadata or other attributes as well.</p>
+
+<p>Cards can also aggregate search results of other cards and perform statistics on the results, and then be scheduled to run regularly and send you or your team an email of the results.</p>
+
+<h2>Can you give me an example?</h2>
+
+<p>Lets say you regularly log your workouts by creating a card tagged as &lsquo;workout&rsquo; that logs your routine. You can create a card that emails you when it hasn&rsquo;t seen any new cards tagged as &ldquo;workout&rdquo;. Or one that sends you a weekly report of how far you&rsquo;ve ran. Or one that emails your friends when you&rsquo;re being lazy. Or one sends you inspirational workout pictures to help motivate you. Or, all of those things.</p>
+
+<p>But if all of that sounds intimidating, don&rsquo;t worry! All of the advanced features are optional.</p>
+
+<h2>When is it coming?</h2>
+
+<p>We&rsquo;re working on it! We are aiming to launch by Spring of 2016.</p>
+]]></content>
+  </entry>
+  
+</feed>
