@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing MindAUX"
 date: 2015-11-23 01:29:01 -0500
-categories: tipss
+categories: general
 ---
 
 MindAUX is made for individuals and teams that need to juggle a lot of information. Things with due dates, things that need to be done regularly, or things that just need to be remembered and easily found later. MindAUX is designed to be easy to use, but powerful when you need it to be. 
@@ -23,5 +23,5 @@ But if all of that sounds intimidating, don't worry! All of the advanced feature
 
 ## When is it coming? 
 
-We're working on it! We are aiming to launch by Spring of 2016.
+We're working on it! We are aiming to launch by Spring of 2016!
 
