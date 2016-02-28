@@ -4,7 +4,7 @@
   <title><![CDATA[Category: general | The MindAUX blog]]></title>
   <link href="http://blog.mindaux.com/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://blog.mindaux.com/"/>
-  <updated>2015-11-23T06:09:40-05:00</updated>
+  <updated>2016-02-27T21:29:16-05:00</updated>
   <id>http://blog.mindaux.com/</id>
   <author>
     <name><![CDATA[MindAUX]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[sneak peak & Limited Beta]]></title>
+    <link href="http://blog.mindaux.com/blog/2016/02/27/sneak-peak-beta-access/"/>
+    <updated>2016-02-27T21:02:25-05:00</updated>
+    <id>http://blog.mindaux.com/blog/2016/02/27/sneak-peak-beta-access</id>
+    <content type="html"><![CDATA[<p>MindAUX has a new design! Still needs some work, but the bulk of it is there. Check it out!</p>
+
+<p><img class="center" src="/images/mindaux-beta.png"></p>
+
+<p>In the above, we can see some of the power of MindAUX. Card #3 is a reflection of other cards, allowing you to build custom reports faster than you can slip on your slippers. You can also schedule this card to be regularly generated &amp; emailed to you!</p>
+
+<h3>Limited Beta Access</h3>
+
+<p>There is still much to be done, but if you don&rsquo;t mind a little mess while things are under construction, your input is welcome for whats there now. head over <a href="http://heyhowsitgoing.mindaux.com">here</a> to signup then send me an <a href="mailto:r.mindaux-beta@ruru.name">email</a> from your signup email and if there&rsquo;s room left in the beta I&rsquo;ll set you up!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introducing MindAUX]]></title>
